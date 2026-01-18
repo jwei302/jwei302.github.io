@@ -92,3 +92,36 @@ h2 {
 .project-links a {
   color: #444;
 }
+
+.book-item {
+  margin-bottom: 16px;
+}
+
+.subtext {
+  font-weight: 400;
+  font-size: 14px;
+  color: #666;
+}
+
+.subtext a {
+  color: #444;
+}
+
+.collapsible {
+  margin-top: 8px;
+}
+
+.collapsible summary {
+  cursor: pointer;
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.collapsible summary:hover {
+  color: #000;
+}
+
+.collapsible-content {
+  margin-top: 16px;
+}
